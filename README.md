@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying in **a Web Development bootcamp**
 
-- 💬 Ask me about **TypeScript, React.js, and Express.js**
+- 💬 Ask me about **TypeScript, React.js and Express.js**
 
 - 📫 Reach me by email **ri.roccoiorillo@gmail.com**
 
