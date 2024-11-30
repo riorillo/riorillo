@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [a fully featured Social Media Application](https://github.com/riorillo/social_media_app)
 
-- 🌱 I’m currently studying in **a Web Development bootcamp**
-
 - 💬 Ask me about **TypeScript, React.js and Express.js**
 
 - 📫 Reach me by email **ri.roccoiorillo@gmail.com**
