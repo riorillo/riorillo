@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riorillo&label=Profile%20views&color=0e75b6&style=flat" alt="riorillo" /> </p>
 
-- 🔭 I’m currently working on [a fully featured Social Media Application](https://github.com/riorillo/social_media_app)
-
-- 💬 Ask me about **TypeScript, React.js and Express.js**
-
 - 📫 Reach me by email **ri.roccoiorillo@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
